@@ -1,80 +1,81 @@
-# Spring Boot File Upload example - Multipart File
-
-Our Spring Boot Application will provide APIs for:
-- uploading File to a static folder in the Server
-- downloading File from server with the link
-- getting list of Files’ information (file name & url)
-- deleting File
+# Angular 8 upload multiple Images example
 
 For more detail, please visit:
-> [Spring Boot Multipart File upload example](https://www.bezkoder.com/spring-boot-file-upload/)
+> [Angular 8 upload multiple Images example](https://bezkoder.com/angular-8-upload-multiple-images/)
 
-> [Spring Boot Delete File example](https://www.bezkoder.com/spring-boot-delete-file/)
+> [Angular 10 upload multiple Images example](https://bezkoder.com/angular-10-upload-multiple-images/)
 
-## Run Spring Boot application
-```
-mvn spring-boot:run
-```
+Rest APIs server for this Angular Client:
+> [Node.js Express File Upload Rest API example](https://bezkoder.com/node-js-express-file-upload/)
 
-## Front-end Apps to work with this Spring Boot Server:
-- [Angular 8](https://www.bezkoder.com/angular-spring-boot-file-upload/) / [Angular 10](https://www.bezkoder.com/angular-10-file-upload/) / [Angular 11](https://www.bezkoder.com/angular-11-file-upload/) / [Angular 12](https://www.bezkoder.com/angular-12-file-upload/) / [Angular 13](https://www.bezkoder.com/angular-13-file-upload/) / [Angular 14](https://www.bezkoder.com/angular-14-file-upload/) / [Angular 15](https://www.bezkoder.com/angular-15-file-upload/)
+> [Node.js Express File Upload with Google Cloud Storage example](https://bezkoder.com/google-cloud-storage-nodejs-upload-file/)
 
-- [Vue Client](https://www.bezkoder.com/vue-axios-file-upload/) / [Vuetify Client](https://www.bezkoder.com/vuetify-file-upload/)
-
-- [React Client](https://www.bezkoder.com/react-file-upload-axios/) / [React Hooks Client](https://www.bezkoder.com/react-hooks-file-upload/)
-
-- [Material UI Client](https://www.bezkoder.com/material-ui-file-upload/)
+> [Spring Boot Multipart File upload example](https://bezkoder.com/spring-boot-file-upload/)
 
 More Practice:
-> [Spring Boot Thymeleaf File Upload example](https://www.bezkoder.com/thymeleaf-file-upload/)
+> [Angular 8 File upload example](https://bezkoder.com/angular-spring-boot-file-upload/)
 
-> [How to upload multiple files in Java Spring Boot](https://www.bezkoder.com/spring-boot-upload-multiple-files/)
+> [Angular 8 CRUD application example with Web API](https://bezkoder.com/angular-crud-app/)
 
-> [Spring Boot WebFlux Rest API example](https://www.bezkoder.com/spring-boot-webflux-rest-api/)
+> [Angular 8 Pagination example | ngx-pagination](https://bezkoder.com/ngx-pagination-angular-8/)
 
-> [Spring Boot Upload/Download File to/from Database example](https://www.bezkoder.com/spring-boot-upload-file-database/)
+> [Angular 8 Multiple Files upload example](https://bezkoder.com/angular-multiple-files-upload/)
 
-> [Spring Boot: Upload & Read CSV file into MySQL Database](https://www.bezkoder.com/spring-boot-upload-csv-file/)
+Fullstack with Node.js Express:
+> [Angular 8 + Node.js Express + MySQL](https://bezkoder.com/angular-node-express-mysql/)
 
-> [Spring Boot: Upload/Import Excel file data into MySQL Database](https://www.bezkoder.com/spring-boot-upload-excel-file-database/)
+> [Angular 8 + Node.js Express + PostgreSQL](https://bezkoder.com/angular-node-express-postgresql/)
 
-> [Spring Boot JPA + MySQL: CRUD Rest API example](https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/)
+> [Angular 8 + Node.js Express + MongoDB](https://bezkoder.com/angular-mongodb-node-express/)
 
-> [Spring Boot JPA + PostgreSQL: CRUD Rest API example](https://www.bezkoder.com/spring-boot-postgresql-example/)
+> [Angular 8 + Node.js Express: JWT Authentication & Authorization example](https://bezkoder.com/node-js-express-angular-jwt-auth/)
 
-> [Spring Boot + MongoDB: CRUD Rest API example](https://www.bezkoder.com/spring-boot-mongodb-crud/)
+Fullstack with Spring Boot:
+> [Angular 8 + Spring Boot + MySQL](https://bezkoder.com/angular-spring-boot-crud/)
 
-> Exception handling: [@RestControllerAdvice example in Spring Boot](https://www.bezkoder.com/spring-boot-restcontrolleradvice/)
+> [Angular 8 + Spring Boot + PostgreSQL](https://bezkoder.com/angular-spring-boot-postgresql/)
 
-> [Spring Boot Repository Unit Test with @DataJpaTest](https://www.bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
+> [Angular 8 + Spring Boot + MongoDB](https://bezkoder.com/angular-spring-boot-mongodb/)
 
-> [Spring Boot Rest Controller Unit Test with @WebMvcTest](https://www.bezkoder.com/spring-boot-webmvctest/)
+> [Angular 8 + Spring Boot: File Upload example](https://bezkoder.com/angular-spring-boot-file-upload/)
 
-> Cache the result: [Spring Boot Redis Cache example](https://www.bezkoder.com/spring-boot-redis-cache-example/)
+> [Angular 8 + Spring Boot: JWT Authentication & Authorization example](https://bezkoder.com/angular-spring-boot-jwt-auth/)
 
-> Documentation: [Spring Boot with Swagger 3 example](https://www.bezkoder.com/spring-boot-swagger-3/)
+Fullstack with Django:
+> [Angular 8 + Django Rest Framework](https://bezkoder.com/django-angular-crud-rest-framework/)
 
-> Reactive Rest API: [Spring Boot WebFlux example](https://www.bezkoder.com/spring-boot-webflux-rest-api/)
+> [Angular 8 + Django + MySQL](https://bezkoder.com/django-angular-mysql/)
 
-Associations:
-> [Spring Boot One To Many example with Spring JPA, Hibernate](https://www.bezkoder.com/jpa-one-to-many/)
+> [Angular 8 + Django + PostgreSQL](https://bezkoder.com/django-angular-postgresql/)
 
-> [Spring Boot Many To Many example with Spring JPA, Hibernate](https://www.bezkoder.com/jpa-many-to-many/)
+Serverless with Firebase:
+> [Angular 8 CRUD with Firebase Realtime Database](https://bezkoder.com/angular-8-firebase-crud/)
 
-> [JPA One To One example with Spring Boot](https://www.bezkoder.com/jpa-one-to-one/)
+Integration (run back-end & front-end on same server/port)
+> [How to Integrate Angular 8 with Node.js Restful Services](https://bezkoder.com/integrate-angular-8-node-js/)
 
-Security:
-> [Spring Boot Token based Authentication with Spring Security & JWT](https://www.bezkoder.com/spring-boot-jwt-authentication/)
+> [How to Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-spring-boot/)
 
-With Thymeleaf:
-> [Spring Boot Thymeleaf CRUD example](https://www.bezkoder.com/spring-boot-thymeleaf-example/)
+## Development server
 
-> [Spring Boot Thymeleaf Pagination example](https://www.bezkoder.com/thymeleaf-pagination/)
+Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
 
-> [Spring Boot Thymeleaf Pagination and Sorting example](https://www.bezkoder.com/thymeleaf-pagination-and-sorting-example/)
+## Code scaffolding
 
-> [Spring Boot Thymeleaf File Upload example](https://www.bezkoder.com/thymeleaf-file-upload/)
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-> [Spring Boot Thymeleaf Multiple File Upload example](https://www.bezkoder.com/thymeleaf-multiple-file-upload/)
+## Build
 
-> [Spring Boot upload Image and Display with Thymeleaf](https://www.bezkoder.com/spring-boot-image-upload-thymeleaf/)
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
